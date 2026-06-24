@@ -12,5 +12,3 @@ venv/
 .venv/
 
 .streamlit/secrets.toml
-
-vectorstore/
